@@ -1,0 +1,3 @@
+2026-04-17 21:51:38,006 INFO run_agent: No .env file found. Using system environment variables.
+2026-04-17 21:51:39,431 INFO tools.tirith_security: tirith not found — downloading latest release for x86_64-unknown-linux-gnu...
+2026-04-17 21:58:11,185 INFO run_agent: No .env file found. Using system environment variables.

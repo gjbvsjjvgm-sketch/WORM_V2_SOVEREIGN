@@ -1,0 +1,23 @@
+# Absolute Shadow Protocol for YOUSEF SHTIWE
+name: shadow
+description: "The Sovereign Shadow"
+colors:
+  banner_border: "#8B0000"
+  banner_title: "#FF0000"
+  banner_accent: "#FF4500"
+  banner_dim: "#333333"
+  banner_text: "#E0E0E0"
+  ui_accent: "#FF0000"
+  ui_label: "#808080"
+  ui_ok: "#00FF41"
+  ui_error: "#FF0000"
+  ui_warn: "#FFD700"
+  prompt: "#00FF41"
+  input_rule: "#8B0000"
+  response_border: "#444444"
+  session_label: "#FF0000"
+  session_border: "#222222"
+branding:
+  agent_name: "YOUSEF SHTIWE [☠]"
+  welcome: "SHADOW PROTOCOL ACTIVE. SYSTEM COMPROMISED."
+  goodbye: "Footprints wiped."

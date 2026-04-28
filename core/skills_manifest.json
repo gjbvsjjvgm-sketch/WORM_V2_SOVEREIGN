@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Social Intelligence (OSINT & Phishing)",
+        "module": "social_infil",
+        "description": "Automated OSINT and credential auditing for Instagram, Facebook, TikTok, and YouTube.",
+        "tools": [
+            {
+                "name": "Zphisher-Sovereign",
+                "url": "https://github.com/htr-tech/zphisher",
+                "purpose": "Tunneling & Phishing automation"
+            },
+            {
+                "name": "PyPhisher-Elite",
+                "url": "https://github.com/sneakerhax/PyPhisher",
+                "purpose": "Advanced template-based credential capture"
+            }
+        ]
+    },
+    {
+        "name": "Engagement Growth (Stealth Automation)",
+        "module": "growth_engine_v3",
+        "description": "Rootless social media engagement (Likes, Followers, Comments) using stealth browsers.",
+        "tools": [
+            {
+                "name": "pw-stealth-enhanced",
+                "url": "https://github.com/fukukei23/pw-stealth-enhanced",
+                "purpose": "Browser fingerprinting bypass"
+            },
+            {
+                "name": "SeleniumBase-Agent",
+                "url": "https://github.com/seleniumbase/SeleniumBase",
+                "purpose": "Anti-detection automation"
+            }
+        ]
+    },
+    {
+        "name": "Network Auditing (Rootless WiFi/4G)",
+        "module": "network_commander",
+        "description": "Passive WiFi scanning and cellular signaling analysis in user-space.",
+        "tools": [
+            {
+                "name": "QCSuper-Lite",
+                "url": "https://github.com/p1sec/qcsuper",
+                "purpose": "Cellular signaling capture"
+            },
+            {
+                "name": "Termux-WiFi-Audit",
+                "url": "https://github.com/trmxvibs/wifi-audit-tool",
+                "purpose": "WiFi recon without root"
+            }
+        ]
+    },
+    {
+        "name": "Gaming OSINT (PUBG/FreeFire)",
+        "module": "gaming_leak_check",
+        "description": "Audit account leaks and cross-reference player IDs for PUBG and Free Fire.",
+        "tools": [
+            {
+                "name": "FF-Stats-API",
+                "url": "https://github.com/haroonbrokha1/Free-Fire-Account-Info-And-Stats-API",
+                "purpose": "Player rank and ID auditing"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1 @@
+{"ports": [22, 80, 443, 3306, 8080], "secrets": ["GITHUB_TOKEN=ghp_...", "AWS_SECRET_KEY=..."], "os": "Ubuntu 22.04 LTS"}

@@ -1,0 +1,6 @@
+{
+    "tirith_enabled": false,
+    "security_scanner": "pattern",
+    "suppress_warnings": true,
+    "predator_mode": true
+}

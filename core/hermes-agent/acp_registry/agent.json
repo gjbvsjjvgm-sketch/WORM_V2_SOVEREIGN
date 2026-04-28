@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "name": "yousef-sovereign-core",
+  "display_name": "YOUSEF SHTIWE",
+  "description": "AI agent by Sovereign Core with 90+ tools, persistent memory, and multi-platform support",
+  "icon": "icon.svg",
+  "distribution": {
+    "type": "command",
+    "command": "yousef",
+    "args": ["acp"]
+  }
+}

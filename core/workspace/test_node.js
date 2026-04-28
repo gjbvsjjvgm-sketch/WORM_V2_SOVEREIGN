@@ -1,0 +1,6 @@
+
+console.log("Node.js development environment is working!");
+console.log("Node.js version:", process.version);
+console.log("Platform:", process.platform);
+console.log("Architecture:", process.arch);
+

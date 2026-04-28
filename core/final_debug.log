@@ -1,0 +1,2 @@
+./.local/lib/python3.13/site-packages/ghunt/modules/drive.py:58: SyntaxWarning: invalid escape sequence '\['
+  gb.rc.print(f"\nType : {file_type} [italic]\[{file.mime_type}][/italic]")
